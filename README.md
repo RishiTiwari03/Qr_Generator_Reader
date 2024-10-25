@@ -9,3 +9,4 @@
 # >> cd to Qr_Generator_Reader
 # >> npm i
 # >>npm run dev
+go to http://127.0.0.1:5174/QR-Code-Generator/
